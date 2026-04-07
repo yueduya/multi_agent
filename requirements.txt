@@ -1,0 +1,31 @@
+# 基础依赖
+python>=3.8
+
+# LangChain 相关
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+# 大语言模型
+langchain-mcp-adapters
+
+# 向量数据库
+chromadb
+
+# 文本嵌入
+sentence-transformers
+
+# PDF 处理
+PyPDF2
+pdfplumber
+
+# Web 界面
+gradio
+
+# 环境变量
+python-dotenv
+
+# 其他
+torch
+requests
